@@ -1,2 +1,2 @@
 # kafka_learning
-To Learn Kafaka Project
+To Learn Kafaka Messaging.
